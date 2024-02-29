@@ -1,0 +1,13 @@
+nginx/hosts/inc_server_name.conf
+/code/vendor/
+/.env
+/mysql_db_files/*
+
+/logs/
+/.idea/.gitignore
+/.idea/deployment.xml
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/server_demo.iml
+/.idea/vcs.xml
